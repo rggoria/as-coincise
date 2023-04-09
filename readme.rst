@@ -30,30 +30,30 @@ Note: Only the Android Studio software can run this project.
 Step-by-step Installation:
 
 1. For Github Clone
-- Open the Android Studio software
-- Click the Get from VCS button
-- On the URL input field just simply paste this code: https://github.com/rggoria/as-coincise.git
-- Then click the clone button
-- There will be a warning message shown about the trust of the file just simply click Trust Project
-- Then you can now run the project
+    - Open the Android Studio software
+    - Click the Get from VCS button
+    - On the URL input field just simply paste this code: https://github.com/rggoria/as-coincise.git
+    - Then click the clone button
+    - There will be a warning message shown about the trust of the file just simply click Trust Project
+    - Then you can now run the project
 
 Note: If the run button is not showing here are the following steps:
-- Go to File on the navigation on the upper screen of the software
-- Click the Sync Project with Gradle Files and wait
-- Then you can now run the project
+    - Go to File on the navigation on the upper screen of the software
+    - Click the Sync Project with Gradle Files and wait
+    - Then you can now run the project
 
 2. For Download ZIP
-- Extract the ZIP file
-- Open the Android Studio software
-- Click the Open button
-- Navigate the extracted file
-- There will be a warning message shown about the trust of the file just simply click Trust Project
-- Then you can now run the project
+    - Extract the ZIP file
+    - Open the Android Studio software
+    - Click the Open button
+    - Navigate the extracted file
+    - There will be a warning message shown about the trust of the file just simply click Trust Project
+    - Then you can now run the project
 
 Note: If the run button is not showing here are the following steps:
-- Go to File on the navigation on the upper screen of the software
-- Click the Sync Project with Gradle Files and wait
-- Then you can now run the project
+    - Go to File on the navigation on the upper screen of the software
+    - Click the Sync Project with Gradle Files and wait
+    - Then you can now run the project
 
 **************************
 Features
