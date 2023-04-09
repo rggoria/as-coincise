@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coincise</string>
+    <string name="intro_header"><font color='#1F4690'>COIN</font><font color='#FFA500'>CISE</font></string>
+    <string name="copyright">&#169; 2022-2023 Alpha Ace - All rights reserved</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu risus quis neque ullamcorper consectetur. Nunc congue lorem quis eros volutpat tristique. Donec molestie, quam ac posuere laoreet, nisl turpis vulputate ante, sit amet varius nisi tortor sed metus. Proin augue purus, porta sed ipsum in, tincidunt consequat nisi. Vestibulum aliquet ligula nec augue mollis sollicitudin. Quisque semper massa eu dignissim facilisis. Aenean ac volutpat elit, a ultricies arcu.</string>
+
+    <string name="no_match">No match found</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
